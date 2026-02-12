@@ -107,12 +107,12 @@ alias:
 		* Added Meteorite Impact craters
 		* Added lapis ore generation to the Blue Mountains
 		* Replaced all rivers in mordor with new river variants
-		
+
 <div class="flex-row" markdown="block">
 
 <div markdown="block">
 
-This update moves focus westward to Lindon, with the [[high_elves_faction|High Elven]] factions receiving new structures in the form of Lindon Villages and Towers, as well as the Tower Hills, the second lore structure. Additionally, throughout Lindon and sparsely elsewhere, you can encounter meteorites, from which you can craft Galvorn Armour; Mordor Rivers were added as a biome; hired units now have a health bar displayed; many bug fixes. 
+Mic check. This update moves focus westward to Lindon, with the [[high_elves_faction|High Elven]] factions receiving new structures in the form of Lindon Villages and Towers, as well as the Tower Hills, the second lore structure. Additionally, throughout Lindon and sparsely elsewhere, you can encounter meteorites, from which you can craft Galvorn Armour; Mordor Rivers were added as a biome; hired units now have a health bar displayed; many bug fixes. 
 </div>
 
 <div style="flex: 1;">
