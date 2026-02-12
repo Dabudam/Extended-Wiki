@@ -11,6 +11,40 @@ alias:
 
 # **Updates**
 
+## **(Beta 1.9.3) (February 7th, 2026)** { #beta-1-9-3 data-toc-label="(Beta 1.9.3)" }
+---
+??? Changelog
+	* Blocks
+		* Added Carved Red Angmar Brick
+		* Added Cracked Red Angmar Brick (slab, stairs wall)
+		* Added Mossy Red Angmar Brick (slab, stairs wall)
+		* Added Red Angmar Brick (slab, stairs wall)
+		* Added Red Angmar Pillar (pillar, slab)
+		* Added Snowy Red Angmar Brick (slab, stairs wall)
+	* Modifiers
+		* Fixed interacting with armor causing the game to crash
+	* Structures
+		* Added a Lindon Castle variant to Lindon Towers (1/50 chance)
+		* Fixed fur in gundabad camps disappearing
+		* Ported Lindon Halls
+	* Textures
+		* Fixed Snowy Angmar Brick texture using a different color pallet than Angmar Brick
+		* Remastered High Elven (Lindon) Gate textures (Renewed Pack)
+
+<div class="flex-row" markdown="block">
+
+<div markdown="block">
+
+This small update's main purpose was fixing major issues and adding just a bit of content in the form of Lindon Halls, a Lindon Castle, and a few new Angmar blocks
+</div>
+
+<div style="flex: 1;">
+	<img src="../img/updates/ExtendedUpdate_1_9_3.png" alt="Beta 1.9.3 Release image" style="max-width: 100%; height: auto;" />
+	<p style="text-align: center; font-size: 0.9em;">Beta 1.9.3 Release image</p>
+</div>
+
+</div>
+
 ## **(Beta 1.9.2) (February 6th, 2026)** { #beta-1-9-2 data-toc-label="(Beta 1.9.2)" }
 ---
 ??? Changelog
@@ -112,7 +146,7 @@ alias:
 
 <div markdown="block">
 
-Mic check. This update moves focus westward to Lindon, with the [[high_elves_faction|High Elven]] factions receiving new structures in the form of Lindon Villages and Towers, as well as the Tower Hills, the second lore structure. Additionally, throughout Lindon and sparsely elsewhere, you can encounter meteorites, from which you can craft Galvorn Armour; Mordor Rivers were added as a biome; hired units now have a health bar displayed; many bug fixes. 
+This update moves focus westward to Lindon, with the [[high_elves_faction|High Elven]] factions receiving new structures in the form of Lindon Villages and Towers, as well as the Tower Hills, the second lore structure. Additionally, throughout Lindon and sparsely elsewhere, you can encounter meteorites, from which you can craft Galvorn Armour; Mordor Rivers were added as a biome; hired units now have a health bar displayed; many bug fixes. 
 </div>
 
 <div style="flex: 1;">
