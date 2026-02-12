@@ -10,9 +10,15 @@ The static site repository for hosting Extended's Wiki built off of [MkDocs](htt
 ~~~
  pip install mkdocs-material mkdocs-htmlproofer-plugin mkdocs-git-revision-date-localized-plugin mkdocs-glightbox mkdocs-literate-nav "mkdocs-material[imaging]" imageio mkdocs-alias-plugin
 ~~~
-4. With your shell of choice, run the following command to start the live-reloading local-instance docs server.
+4. With your shell of choice, run the following commands navagate to the project folder and to start the live-reloading local-instance docs server.
+
+Example of windows path (will be diffrent for every person):
 ~~~
- mkdocs serve
+ cd C:\Users\maximus\Documents\GitHub\Extended-Wiki
+~~~
+Then start the live-reloading mkdocs site with this command:
+~~~
+ mkdocs serve --config-file wiki/mkdocs.yml
 ~~~
 5. Now every change you make to your wiki instance will be reflected live in your web browser.
 6. When you are satisfied your changes, open a PR to the main repo to have your changes/additions added to the wiki.
